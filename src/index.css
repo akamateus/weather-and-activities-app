@@ -32,7 +32,7 @@ code {
   text-align: center;
   display: flex;
   flex-direction: column;
-  border-radius: 30px;
+  border-radius: 20px;
   background-size: cover;
   width: 25vw;
   height: 85vh;
@@ -93,13 +93,13 @@ li {
   border-radius: 5px;
   border: none;
   outline: none;
-  padding: 10px;
+  padding: 4px;
   color: #eee;
   background-color: #f40404 transparent;
 }
 .delete-button:hover {
-  background-color: #ffb247;
-  transform: scale(1.5);
+  background-color: #f4502b;
+  transform: scale(1.1);
   transition-duration: 0.2s;
 }
 
